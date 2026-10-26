@@ -3,7 +3,7 @@ title: "Safety-net hospitals face more barriers yet use fewer strategies to redu
 collection: publications
 category: collaboration
 permalink: /publication/safety-net-readmissions
-order: "13"
+order: "12"
 date: 2017-03-01
 venue: "Medical Care"
 paperurl: "https://doi.org/10.1097/MLR.0000000000000687"

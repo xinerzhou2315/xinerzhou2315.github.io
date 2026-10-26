@@ -3,7 +3,7 @@ title: "Time dynamics of COVID-19"
 collection: publications
 category: collaboration
 permalink: /publication/covid-time-dynamics
-order: "07"
+order: "06"
 date: 2020-12-03
 venue: "Scientific Reports"
 paperurl: "https://doi.org/10.1038/s41598-020-77709-4"

@@ -22,7 +22,7 @@ repository               : "xinerzhou2315/xinerzhou2315.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # Add a filename in /images/ when a photo is ready
+  avatar           : "headshot-placeholder.svg"
   name             : "Xiner Zhou"
   pronouns         :
   bio              : "Assistant Professor in Biostatistics"

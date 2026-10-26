@@ -3,7 +3,7 @@ title: "Persistence and drivers of high-cost status among dual-eligible Medicare
 collection: publications
 category: collaboration
 permalink: /publication/dual-eligible-high-cost
-order: "10"
+order: "09"
 date: 2018-10-16
 venue: "Annals of Internal Medicine"
 paperurl: "https://doi.org/10.7326/M18-0085"

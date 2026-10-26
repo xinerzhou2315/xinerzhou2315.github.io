@@ -3,7 +3,7 @@ title: "Metagenomic features of bioburden serve as outcome indicators in combat 
 collection: publications
 category: collaboration
 permalink: /publication/metagenomic-bioburden
-order: "05"
+order: "04"
 date: 2022-08-16
 venue: "Scientific Reports"
 paperurl: "https://doi.org/10.1038/s41598-022-16170-x"

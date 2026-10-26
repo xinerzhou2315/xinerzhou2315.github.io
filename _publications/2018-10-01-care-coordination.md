@@ -3,7 +3,7 @@ title: "Hospital-level care coordination strategies associated with better patie
 collection: publications
 category: collaboration
 permalink: /publication/care-coordination
-order: "11"
+order: "10"
 date: 2018-10-01
 venue: "BMJ Quality & Safety"
 paperurl: "https://doi.org/10.1136/bmjqs-2017-007597"

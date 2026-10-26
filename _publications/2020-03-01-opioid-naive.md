@@ -3,7 +3,7 @@ title: "Trends in opioid use disorder and overdose among opioid-naive individual
 collection: publications
 category: collaboration
 permalink: /publication/opioid-naive-massachusetts
-order: "08"
+order: "07"
 date: 2020-03-01
 venue: "Addiction"
 paperurl: "https://doi.org/10.1111/add.14867"

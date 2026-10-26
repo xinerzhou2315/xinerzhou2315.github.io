@@ -3,7 +3,7 @@ title: "Detection of second primary lung cancers on surveillance imaging followi
 collection: publications
 category: collaboration
 permalink: /publication/second-primary-lung-cancers
-order: "06"
+order: "05"
 date: 2022-05-01
 venue: "Clinical Lung Cancer"
 paperurl: "https://doi.org/10.1016/j.cllc.2021.11.004"

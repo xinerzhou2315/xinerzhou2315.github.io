@@ -3,7 +3,7 @@ title: "Characteristics and spending patterns of persistently high-cost Medicare
 collection: publications
 category: collaboration
 permalink: /publication/high-cost-medicare
-order: "09"
+order: "08"
 date: 2019-01-07
 venue: "Health Affairs"
 paperurl: "https://doi.org/10.1377/hlthaff.2018.05160"

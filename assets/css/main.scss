@@ -1,0 +1,69 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar"
+;
+
+:root {
+  --global-link-color: #5f6b72;
+  --global-link-color-hover: #3e484e;
+  --global-link-color-visited: #5f6b72;
+}
+
+html[data-theme="dark"] {
+  --global-link-color: #c5ced3;
+  --global-link-color-hover: #e4eaed;
+  --global-link-color-visited: #c5ced3;
+}
+
+ol.publication-list {
+  margin: 1.25em 0 0;
+  padding-left: 1.4em;
+}
+
+ol.publication-list > li {
+  margin: 0 0 1.6em;
+  padding-left: 0.4em;
+}
+
+ol.publication-list > li::marker {
+  color: #5f6b72;
+  font-weight: 600;
+}
+
+ol.publication-list .archive__item-title {
+  margin-top: 0;
+}
